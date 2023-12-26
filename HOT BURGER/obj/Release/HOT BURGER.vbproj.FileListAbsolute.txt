@@ -1,0 +1,3 @@
+C:\Users\omer\Desktop\55\goldenboy\HOT BURGER\HOT BURGER\bin\Release\HOT BURGER.exe.config
+C:\Users\omer\Desktop\55\goldenboy\HOT BURGER\HOT BURGER\obj\Release\HOT_BURGER.Form1.resources
+C:\Users\omer\Desktop\55\goldenboy\HOT BURGER\HOT BURGER\obj\Release\HOT BURGER.vbproj.GenerateResource.Cache
